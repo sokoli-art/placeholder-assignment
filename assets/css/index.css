@@ -1,0 +1,14 @@
+h1{
+    color:blue; 
+    text-align:center; 
+    font-size: 10em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+button{
+    color: red;
+    background:wheat;
+    padding: 10px;
+    border-radius: 10px;
+    border-color: black;
+    border: none;
+}
